@@ -14,11 +14,7 @@ This GitHub repository is a collection of my personal projects, experiments, and
 
 Feel free to explore, contribute, and connect with me on anything related to analytics, data engineering, or the art of visualizing data. I'm always open to collaboration and learning from the vibrant GitHub community.
 
-## Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/your-twitter-handle)
-- Email: [YourEmail@example.com](mailto:you@example.com)
 
 Let's build a data-driven world together! 
 
