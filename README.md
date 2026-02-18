@@ -27,5 +27,5 @@ If you want to find out more, you can check out [my website](https://mcnakhaee.c
 
 **Top Languages:** ![HTML](https://img.shields.io/badge/HTML-16%20repos-E34F26?style=flat-square&logo=html) ![Python](https://img.shields.io/badge/Python-13%20repos-3776AB?style=flat-square&logo=python) ![R](https://img.shields.io/badge/R-12%20repos-276DC3?style=flat-square&logo=r) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-12%20repos-F37626?style=flat-square&logo=jupyter%20notebook) ![CSS](https://img.shields.io/badge/CSS-2%20repos-1572B6?style=flat-square&logo=css)
 
-<sub>Last updated: February 17, 2026</sub>
+<sub>Last updated: February 18, 2026</sub>
 <!-- GITHUB-STATS:END -->
